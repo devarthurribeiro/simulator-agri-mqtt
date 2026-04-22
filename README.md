@@ -152,3 +152,4 @@ export class CustomSensor extends BaseSensor {
 A configuração padrão usa portas 5673 (RabbitMQ) e 15673 (Management) para evitar conflitos com containers existentes. Isso é configurável no docker-compose.yml.
 
 StrictMode do React pode fazer o EventSource conectar duas vezes durante desenvolvimento. Isso é comportamento esperado e não afeta a funcionalidade.
+# simulator-agri-mqtt
